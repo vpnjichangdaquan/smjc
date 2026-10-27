@@ -20,7 +20,7 @@
 
 ## 注册入口
 
-👉 [点击注册三毛机场](https://gw-2.smjc2.com/#/register?code=zP6hpbpa)
+👉 [点击注册三毛机场](https://a.wwaann.com/?s=smjc)
 
 如果访问不了，可以[点击此处](https://wwaann.com/)查看其他可用机场。
 
@@ -305,7 +305,7 @@ Hysteria 协议也被部分节点服务采用，具有较好的网络传输能�
 
 打开注册页面：
 
-[点击注册三毛机场](https://gw-2.smjc2.com/#/register?code=zP6hpbpa)
+[点击注册三毛机场](https://a.wwaann.com/?s=smjc)
 
 完成账号注册。
 
@@ -413,7 +413,7 @@ Hysteria 协议也被部分节点服务采用，具有较好的网络传输能�
 
 # 注册入口
 
-👉 [点击注册三毛机场](https://gw-2.smjc2.com/#/register?code=zP6hpbpa)
+👉 [点击注册三毛机场](https://a.wwaann.com/?s=smjc)
 
 如果访问不了，可以[点击此处](https://wwaann.com/)查看其他可用机场。
 
