@@ -1,5 +1,5 @@
 # smjc
-# 三毛机场官网最新入口 - Clash、Shadowrocket、Sing-box、Hysteria、ChatGPT AI工具使用教程
+# 三毛机场最新官网入口 - Clash、Shadowrocket、Sing-box、Hysteria、ChatGPT AI工具使用教程
 
 ## 简介
 
